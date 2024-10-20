@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/youtube-clone/static/css/main.4cb7a080.css",
-    "main.js": "/youtube-clone/static/js/main.11af0f42.js",
-    "static/js/453.79faa093.chunk.js": "/youtube-clone/static/js/453.79faa093.chunk.js",
-    "index.html": "/youtube-clone/index.html",
-    "main.4cb7a080.css.map": "/youtube-clone/static/css/main.4cb7a080.css.map",
-    "main.11af0f42.js.map": "/youtube-clone/static/js/main.11af0f42.js.map",
-    "453.79faa093.chunk.js.map": "/youtube-clone/static/js/453.79faa093.chunk.js.map"
+    "main.css": "/youtubeClone/static/css/main.4cb7a080.css",
+    "main.js": "/youtubeClone/static/js/main.d9affea7.js",
+    "static/js/453.79faa093.chunk.js": "/youtubeClone/static/js/453.79faa093.chunk.js",
+    "index.html": "/youtubeClone/index.html",
+    "main.4cb7a080.css.map": "/youtubeClone/static/css/main.4cb7a080.css.map",
+    "main.d9affea7.js.map": "/youtubeClone/static/js/main.d9affea7.js.map",
+    "453.79faa093.chunk.js.map": "/youtubeClone/static/js/453.79faa093.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cb7a080.css",
-    "static/js/main.11af0f42.js"
+    "static/js/main.d9affea7.js"
   ]
 }
